@@ -11,7 +11,7 @@ body {
   font-family: 'Sofia';font-size: 35px;
 }
 
-iframe {
+.unit2 {
   display: block;
   margin: 20px auto;
   border: 2 px solid black;
@@ -20,8 +20,8 @@ iframe {
 }
 
 .growthproject {
-   width: 440;
-  height: 757;
+  width: 440px;
+  height: 757px;
   border: 0px;
 }
 
