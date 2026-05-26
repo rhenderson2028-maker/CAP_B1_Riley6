@@ -22,8 +22,8 @@ body {
 .growthproject {
   width: 440px;
   height: 757px;
-  border: 0px;
-  border-color:#DA627D ;
+  border-width:thick;
+  background-color:#DA627D ;
 }
 
 
@@ -31,5 +31,5 @@ body {
 .futureproject{
    background-color:#f9dbbd;
   border-width:thick;
-  border-style:double;
+  
 }
