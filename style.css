@@ -17,9 +17,12 @@ iframe {
   border: 2 px solid black;
   width: 80%;
   height: 80%;
- 
 }
 
+.growthProject {
+   width: 500;
+  height: 500;
+}
 
 .futureproject{
    border-color:#f9dbbd;
