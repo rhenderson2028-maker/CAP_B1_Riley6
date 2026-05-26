@@ -20,9 +20,12 @@ iframe {
 }
 
 .growthproject {
-   width: 500;
-  height: 500;
+   width: 440;
+  height: 757;
+  border: 0px;
 }
+
+
 
 .futureproject{
    border-color:#f9dbbd;
