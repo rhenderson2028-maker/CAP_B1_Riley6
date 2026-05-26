@@ -1,0 +1,29 @@
+body {
+  background:#FFA5AD ;
+}
+
+.unit2 {
+  display: block;
+  margin: 20px auto;
+  width: 80%;
+  height: 80%;
+  background-color:#a53860;
+}
+.growthproject{
+  background-color:#DA627D ;
+  border-width:thick;
+   
+}
+.pgtxtstyle{
+  font-family: 'Sofia';font-size: 35px;
+}
+
+.bestworkproject{
+  background-color:#b24167 ;
+  border-width:thick;
+}
+.futureproject{
+   background-color:#f9dbbd ;
+  border-width:thick;
+  
+}
