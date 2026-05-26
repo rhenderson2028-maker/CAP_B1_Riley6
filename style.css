@@ -3,7 +3,7 @@ body {
 }
 
 .growthproject{
-  background-color:#DA627D ;
+  border-color:#DA627D ;
   border-width:thick; 
 }
 
@@ -11,17 +11,18 @@ body {
   font-family: 'Sofia';font-size: 35px;
 }
 
-.bestworkproject {
+iframe {
   display: block;
   margin: 20px auto;
-  background-color: #b24167;
+  border-color: #b24167;
   border-width: thick;
   width: 80%;
   height: 80%;
+  border: 3px pink;
 }
 
 
 .futureproject{
-   background-color:#f9dbbd;
+   border-color:#f9dbbd;
   border-width:thick;
 }
