@@ -23,11 +23,13 @@ body {
   width: 440px;
   height: 757px;
   border: 0px;
+  border-color:#DA627D ;
 }
 
 
 
 .futureproject{
-   border-color:#f9dbbd;
+   background-color:#f9dbbd;
   border-width:thick;
+  border-style:double;
 }
