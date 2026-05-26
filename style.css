@@ -2,27 +2,26 @@ body {
   background:#FFA5AD ;
 }
 
-
-
 .growthproject{
   background-color:#DA627D ;
-  border-width:thick;
-   
+  border-width:thick; 
 }
+
 .pgtxtstyle{
   font-family: 'Sofia';font-size: 35px;
 }
 
-.bestworkproject{
-  background-color:#b24167 ;
+.bestworkproject {
+  background-color:#b24167;
   border-width:thick;
    display: block;
   margin: 20px auto;
   width: 80%;
   height: 80%;
 }
+
+
 .futureproject{
-   background-color:#f9dbbd ;
+   background-color:#f9dbbd;
   border-width:thick;
-  
 }
