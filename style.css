@@ -12,10 +12,10 @@ body {
 }
 
 .bestworkproject {
-  background-color:#b24167;
-  border-width:thick;
-   display: block;
+  display: block;
   margin: 20px auto;
+  background-color: #b24167;
+  border-width: thick;
   width: 80%;
   height: 80%;
 }
